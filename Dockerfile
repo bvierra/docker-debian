@@ -1,4 +1,4 @@
-FROM debian:bookworm
+FROM debian:bullseye
 
 LABEL maintainer="Billy Vierra <bvierra@gmail.com>"
 LABEL build_date="2023-07-18"
